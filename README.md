@@ -32,10 +32,12 @@ bash
 ````pip install selenium colorama webdriver-manager````
 
 
+![Screenshot Placeholder](output.png)
+
 🚀 How to Run
 Clone the repository:
 bash
-````git clone ````
+````git clone https://github.com/Illusivehacks/whatsapp-crash-script.git ````
 
 ````cd whatsapp-crash-bot````
 
