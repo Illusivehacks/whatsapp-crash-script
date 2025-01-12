@@ -39,12 +39,12 @@ Clone the repository:
 bash
 ````git clone https://github.com/Illusivehacks/whatsapp-crash-script.git ````
 
-````cd whatsapp-crash-bot````
+````cd crashv6````
 
 
 Run the script:
 bash
-````python whatsapp_crash_bot.py````
+````python crashv6.py````
 
 Follow the prompts:
 
