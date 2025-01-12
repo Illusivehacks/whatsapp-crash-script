@@ -39,7 +39,10 @@ Clone the repository:
 bash
 ````git clone https://github.com/Illusivehacks/whatsapp-crash-script.git ````
 
-````cd crashv6````
+
+Navigate to the project directory:
+    bash
+    ```cd ```
 
 
 Run the script:
