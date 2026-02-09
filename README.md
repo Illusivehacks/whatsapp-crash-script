@@ -77,4 +77,4 @@ Sends the message the specified number of times using selenium.
 
 📝 Author.
 Illusivehacks
-Feel free to connect or report issues via GitHub or Gmail -> williamkitungo@gmail.com
+Feel free to connect or report issues via GitHub or Gmail -> @Ilusivehacks
